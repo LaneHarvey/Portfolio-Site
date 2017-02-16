@@ -35,7 +35,7 @@ input.form-control {
   border-radius: 0 !important;
 }
 input.form-control:focus {
-  border-color: #41c4ab;
+  border-color: #222222;
   box-shadow: none;
 }
 .btn,
@@ -47,8 +47,8 @@ input.form-control:focus {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #41c4ab;
-  border-color: #41c4ab;
+  background-color: #222222;
+  border-color: #222222;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -60,8 +60,8 @@ input.form-control:focus {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #38b49c;
-  border-color: #35ac95;
+  background-color: #222222;
+  border-color: #222222;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -86,11 +86,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #41c4ab;
-  border-color: #41c4ab;
+  background-color: #222222;
+  border-color: #222222;
 }
 .btn-primary .badge {
-  color: #41c4ab;
+  color: #222222;
   background-color: #ffffff;
 }
 body {
@@ -99,7 +99,7 @@ body {
   font-weight: 300;
 }
 a {
-  color: #41c4ab;
+  color: #222222;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -151,7 +151,7 @@ hr.right {
   margin: 15px 0 15px auto;
 }
 hr.colored {
-  border-color: #41c4ab;
+  border-color: #222222;
 }
 @media (min-width: 768px) {
   hr {
@@ -166,7 +166,7 @@ hr.colored {
   }
 }
 .text-primary {
-  color: #41c4ab;
+  color: #222222;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
@@ -177,12 +177,12 @@ hr.colored {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #41c4ab;
+  color: #222222;
   background-color: white;
   border-radius: 0;
 }
 .navbar-default {
-  background-color: #41c4ab;
+  background-color: #222222;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
@@ -809,9 +809,9 @@ aside.cta-quote span.quote {
   transition: all 0.5s;
 }
 .portfolio-filter #filters li .filter.active {
-  background-color: #41c4ab;
+  background-color: #222222;
   color: white;
-  border-color: #41c4ab;
+  border-color: #222222;
 }
 #portfoliolist .portfolio {
   width: 31%;
@@ -843,7 +843,7 @@ aside.cta-quote span.quote {
   bottom: -75px;
 }
 #portfoliolist .portfolio .portfolio-wrapper .caption .caption-bg {
-  background: #41c4ab;
+  background: #222222;
   width: 100%;
   height: 100%;
   position: absolute;
