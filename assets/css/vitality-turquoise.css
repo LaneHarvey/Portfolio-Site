@@ -386,7 +386,7 @@ aside.cta-quote {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  padding: 100px 0;
+  padding: 100px;
   text-align: center;
 }
 aside.cta-quote span.quote {
@@ -407,7 +407,7 @@ aside.cta-quote span.quote {
 }
 @media (min-width: 992px) {
   aside.cta-quote {
-    padding: 300px 0;
+    padding: 100px 0;
   }
   aside.cta-quote span.quote {
     font-size: 40px;
@@ -497,10 +497,11 @@ aside.cta-quote span.quote {
   }
 }
 .cta-form h3 {
-  margin-top: 0;
+  margin-top: 20;
 }
 .about-content {
   padding: 30px;
+  /*padding-bottom: 50px*/
 }
 .about-carousel .item {
   padding: 15px;
@@ -992,7 +993,7 @@ footer.footer {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  padding: 200px 0 20px;
+  padding: 260px 0 260px;
 }
 footer.footer a {
   color: rgba(255, 255, 255, 0.7);
