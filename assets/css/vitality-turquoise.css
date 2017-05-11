@@ -500,8 +500,7 @@ aside.cta-quote span.quote {
   margin-top: 20;
 }
 .about-content {
-  /*padding: 30px;*/
-  width: 180px;
+  padding: 30px;
 }
 .about-carousel .item {
   padding: 15px;
